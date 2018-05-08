@@ -8,7 +8,7 @@
     
 <p> As a side note, the total period is set to 60 seconds, so around 60 seconds the entire pattern should restart </p>
 
-<img src="wave_pendulum.jpg" alt="Wave Pendulum Simulation">
+<img align='center' src="wave_pendulum.png" alt="Wave Pendulum Simulation">
     
 
 </body>
